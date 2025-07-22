@@ -1,0 +1,8 @@
+pandas
+tqdm
+aiohttp
+numpy
+playwright
+openpyxl
+beautifulsoup4
+markdownify 
